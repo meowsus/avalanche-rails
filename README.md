@@ -7,7 +7,7 @@
 Add the following to your `Gemfile`:
 
 ```
-gem 'avalanche-rails', '~> 1.1.2'
+gem 'avalanche-rails', '~> 1.2.0'
 ```
 
 All the following to your stylesheets manifest:
