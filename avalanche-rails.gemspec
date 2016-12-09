@@ -5,11 +5,11 @@ Gem::Specification.new do |spec|
   spec.version      = AvalancheRails::Rails::VERSION
   spec.authors      = ['Curt Howard']
   spec.email        = ['choward@weblinc.com']
-  spec.summary      = 'A build of the jQuery LiveType Plugin, written by ' +
-                      'written by Tobal San, packaged for the Rails asset ' +
+  spec.summary      = 'A build of the Avalanche Grid System, written by ' +
+                      'written by Tom Haire, packaged for the Rails asset ' +
                       'pipeline.'
-  spec.description  = 'A build of the jQuery LiveType Plugin, written by ' +
-                      'written by Tobal San, packaged for the Rails asset ' +
+  spec.description  = 'A build of the Avalanche Grid System, written by ' +
+                      'written by Tom Haire, packaged for the Rails asset ' +
                       'pipeline.'
   spec.licenses     = ['MIT']
   spec.homepage     = 'https://github.com/meowsus/avalanche-rails'
